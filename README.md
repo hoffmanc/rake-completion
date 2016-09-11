@@ -20,6 +20,7 @@ So it’s more faster, that default completion from Ubuntu rake.
 1. Add Ubuntu on Rails PPA:
    
         $ sudo add-apt-repository ppa:ubuntu-on-rails/ppa
+        $ sudo apt-get update
    
 2. Install `rake-completion` package:
    
